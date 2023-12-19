@@ -9,5 +9,5 @@ The name's William, I am a 3th grade college computer science student at Haute e
 - Programming ⚙️
 - Video games 🎮
 
-## Take a look 👀 :
+### Take a look 👀 :
 - <a href="https://www.linkedin.com/in/william-duquennoy-7b34a8249"/> LinkedIn 💼</a>
